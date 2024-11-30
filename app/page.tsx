@@ -1,7 +1,5 @@
-import Image from "next/image";
-
 export default function Home() {
-  return (
+    return (
     <div className="grid grid-cols-3  w-[900px] gap-4 m-6 ">
       <div className="bg-blue-500 text-center justify-self-end w-[150px]">AG1<br />2 of 10</div>
       <div className="text-center grid grid-cols-2 grid-rows ">
